@@ -8,7 +8,7 @@ J'ai dans la vidéo le resmon
 
 # Mapping
 
-Le mapping et fait par moi même, le lien de téléchargement : 
+Le mapping et fait par moi même donc vous ne pouvez le trouver nul part 
 
 # Item utilisable 
  Ceci est a mettre dans le esx_basicneeds côté server/main.lua
