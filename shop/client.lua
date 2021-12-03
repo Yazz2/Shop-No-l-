@@ -4,12 +4,6 @@ TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 local open = false 
 local mainMenu = RageUI.CreateMenu("", "Interactions Disponibles", 0, 0, "menu_shop", "shopui_title_noel")
 
-print("^0======================================================================^7")
-print("^3By Yazz'#7393")
-print("^0[^2Téléchargement^0] ^7:^0 ^5https://discord.gg/kjHbNDE469^7")
-print("^0[^2Preview^0] ^7:^0 ^5https://www.youtube.com/watch?v=nr5p-efg6OY&t=360s^7")
-print("^0======================================================================^7")
-
 function OpenMenushop()
      if open then 
          open = false
