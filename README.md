@@ -1,5 +1,5 @@
 # Shop Noël 
-J'ai oublié dans la vidéo le resmon  
+J'ai oublié dans la vidéo le resmon pour en savoir plus -> https://discord.gg/QDc73sHGgj
 
 ![shopnoel](https://user-images.githubusercontent.com/88659966/144250447-cba7df84-401f-43d0-bfba-02d314751983.PNG)
 
